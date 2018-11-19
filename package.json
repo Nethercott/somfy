@@ -21,5 +21,12 @@
   "bugs": {
     "url": "https://github.com/Nethercott/somfy/issues"
   },
-  "homepage": "https://github.com/Nethercott/somfy#readme"
+  "homepage": "https://github.com/Nethercott/somfy#readme",
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  },
+  "devDependencies": {
+    "eslint": "^5.9.0"
+  }
 }
