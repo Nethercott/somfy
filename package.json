@@ -1,0 +1,25 @@
+{
+  "name": "somfy",
+  "version": "0.0.1",
+  "description": "A NodeJS wrapper for the Somfy Smart Home API",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint --ignore-path .gitignore ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nethercott/somfy.git"
+  },
+  "keywords": [
+    "wrapper",
+    "somfy",
+    "smart-home",
+    "api"
+  ],
+  "author": "Christopher Nethercott",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nethercott/somfy/issues"
+  },
+  "homepage": "https://github.com/Nethercott/somfy#readme"
+}
